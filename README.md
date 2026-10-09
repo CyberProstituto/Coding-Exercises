@@ -6,10 +6,10 @@ Este repositório é para praticar exercícios de programação, melhorar minhas
 
 As explicações das minhas soluções serão escritas em português, meu idioma nativo.
 
-# Programming Exercises
+# Coding Exercises
 
 Programming exercises with my solutions and explanations.
 
-This repository is for practicing programming exercises, improving my skills, and tracking how much I've improved over time or finding out if I've lost my mind.
+This repository is for practicing coding exercises, improving my skills, and tracking how much I've improved over time or finding out if I've lost my mind.
 
 The explanations of my solutions will be written in Portuguese, my native language.
